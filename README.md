@@ -1,10 +1,9 @@
 ## Description
-The project describes a game in which the player, after taking an **elevator ride** in an office building, arrives in a **mysterious new world**.
-In this world, each character has a **unique role** – some are **friendly** and provide **information** or **quests**, while others are **hostile** and challenge the player in **combat**.  
+The project describes a game in which the player, after taking **an elevator ride** in an office building, arrives in a **mysterious new world**. In this world, each character has a **unique role** – some are **friendly** and provide **information** or **quests**, while others are **hostile** and challenge the player in **combat**.
 
-Interaction with these characters includes **conversations**, **assistance**, **item collection quests**, or **battles**, through which the player discovers how to return to the **original world**.  
+Interaction with these characters includes **conversations**, **assistance**, **item collection quests**, or **battles**, through which the player gradually uncovers the secrets of this strange environment and discovers how to return to the **original world**.
 
-At the **end of the adventure**, after completing the **main challenge**, the **path home** is finally revealed.  
+The project was developed using **Unity 6**.
 
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/3861e3b1-49f1-4e8a-8e8b-fac5caa94449" />
 
