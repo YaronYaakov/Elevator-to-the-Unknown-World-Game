@@ -1,7 +1,6 @@
 ## Description
-The project describes a game in which the player, after taking an **elevator ride**, arrives in a **mysterious new world** filled with **structures**, **lighting**, **objects**, and **diverse characters**.  
-
-Each character has a **unique role** and **animations** – some are **friendly** and provide **information** or **quests**, while others are **hostile** and challenge the player in **combat**.  
+The project describes a game in which the player, after taking an **elevator ride** in an office building, arrives in a **mysterious new world**.
+In this world, each character has a **unique role** – some are **friendly** and provide **information** or **quests**, while others are **hostile** and challenge the player in **combat**.  
 
 Interaction with these characters includes **conversations**, **assistance**, **item collection quests**, or **battles**, through which the player discovers how to return to the **original world**.  
 
