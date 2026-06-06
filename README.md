@@ -14,10 +14,13 @@ The project was developed using **Unity 6**.
 ## Demo Video
 
 part 1
-[Watch the video](https://github.com/yaron16ll/Elevator-to-the-Unknown-World-Game/releases/download/part1/Part1.mp4)
+https://github.com/user-attachments/assets/ee8d5880-44fc-47e0-b50a-76720f5b4fbd
 
 part 2
-[Watch the video](https://github.com/yaron16ll/Elevator-to-the-Unknown-World-Game/releases/download/part1/Part2.mp4)
+https://github.com/user-attachments/assets/ecf228d8-739b-49ac-8143-b13f7a75b3e9
 
-part 3
-[Watch the video](https://github.com/yaron16ll/Elevator-to-the-Unknown-World-Game/releases/download/part1/Part3.mp4)
+
+
+
+
+
