@@ -14,14 +14,9 @@ The project was developed using **Unity 6**.
 ## Demo Video
 
 part 1
-
-
-<video src="https://github.com/user-attachments/assets/ecf228d8-739b-49ac-8143-b13f7a75b3e9" controls></video>
-
-
-https://github.com/user-attachments/assets/94efb2b2-930f-4897-b15a-fa38dc404d89
-
-
+<video src="part_1.mp4" controls width="800"></video>
 
 part 2
+<video src="part_2.mp4" controls width="800"></video>
+
 
